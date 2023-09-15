@@ -9,22 +9,15 @@ I’m **Zhiyi Liu**, and a student at  the University of Electronic Science and 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Markdown                 3 mins              ████████████████████░░░░░   79.15 % 
 Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 ```
 
 
- Last Updated on 15/09/2023 17:16:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
