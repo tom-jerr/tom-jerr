@@ -7,6 +7,7 @@ I’m **Zhiyi Liu**, and a student at  the University of Electronic Science and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-jerr&hide_progress=true)
 
+![tom-jerr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tom-jerr)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
