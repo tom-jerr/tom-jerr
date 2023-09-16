@@ -7,17 +7,7 @@ I’m **Zhiyi Liu**, and a student at  the University of Electronic Science and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-jerr&layout=compact)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Markdown                 3 mins              ████████████████████░░░░░   79.15 % 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 <!--
 **tom-jerr/tom-jerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
