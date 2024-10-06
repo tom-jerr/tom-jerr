@@ -31,12 +31,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 mins              ████████████░░░░░░░░░░░░░   47.72 % 
-Docker                   3 mins              ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-miniob_2024_test         10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
