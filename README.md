@@ -19,12 +19,16 @@
 
 - [TinyKV: A highly available, scalable, and distributed transaction-supported KV database](https://github.com/tom-jerr/tinykv)
 - [Bustub: A single-node database that supports basic SQL operations(private)](https://github.com/tom-jerr/bustub)
+- [MapReduce: A implement of MapReduce by C++ and grpc](https://github.com/tom-jerr/6.824/tree/lab1)
 - [RelayServer: A relay server based on epoll](https://github.com/tom-jerr/RelayServer)
 - [B+Tree: A concurrent b plus tree in memory](https://github.com/tom-jerr/BPlusTree)
-- [miniob: A lightweight open-source relational database educational project designed for hands-on learning of core database implementation concepts](https://github.com/)
-- [miniTCP: A hands-on networking course project from Stanford University where students implement a functional TCP/IP stack and user-space network protocols to understand modern internet architecture](https://github.com/tom-jerr/CS144)
-- [miniOS: An intensive operating systems course project from MIT where students gain hands-on experience by modifying the xv6 teaching OS to implement core mechanisms like system calls, memory management, and process scheduling.](https://github.com/tom-jerr/RethinkMIT6.S081)
+- [miniTCMalloc: A simple implement of Google tcmalloc](https://github.com/tom-jerr/CPlusPlus/tree/malloc)
+- [miniFileSort: A single-thread outer sort by infinite memory](https://github.com/tom-jerr/Cplusplus/tree/neooutersort)
+- [miniob: A lightweight open-source relational database educational project](https://github.com/)
+- [miniTCP: A project of functional TCP/IP stack and user-space network protocols](https://github.com/tom-jerr/CS144)
+- [miniOS: An intensive operating systems course project by modifying the xv6 teaching OS to implement core mechanisms like system calls, memory management, and process scheduling.](https://github.com/tom-jerr/RethinkMIT6.S081)
 - [MyYoloX: A Lightweight Oriented Object Detection Model(private)](https://github.com/tom-jerr/My_YOLOX)
+- [CSAPPlabs: Some interesting labs of CSAPP](https://github.com/tom-jerr/CSapp_labs)
 </p>
 
 ### About me
