@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Distributed system, Database, LLM Inference
 - ⭐ You may like [A note of C++ Study](https://tom-jerr.github.io/CXX_Study) 、[A note of Distributed Database Study](https://tom-jerr.github.io/DB_Study) 、or [My website](https://tom-jerr.github.io)
 
-#### :computer: 开源项目: 
+#### :computer: Projects: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tom-jerr&show_icons=true&hide_border=true" />
 
@@ -27,8 +27,8 @@
 - [MyYoloX: A Lightweight Oriented Object Detection Model(private)](https://github.com/tom-jerr/My_YOLOX)
 </p>
 
-### 关于我
-- [个人网站](https://tom-jerr.github.io/)
+### About me
+- [Personal Website](https://tom-jerr.github.io/)
 - [A note of C++ Study](https://tom-jerr.github.io/CXX_Study)
 - [A note of DDB Study](https://tom-jerr.github.io/DB_Study)
 <!-- [![tom-jerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-jerr&hide=prs,stars&show_icons=true)](https://github.com/tom-jerr/github-readme-stats)
