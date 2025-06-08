@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning knowledge about distributed database and LLM inference.
 - 📫 How to reach me: [lzy_cs_LN@163.com](mailto:lzy_cs_LN@163.com)
 - ⚡ Fun fact: Distributed system, Database, LLM Inference
-- ⭐ You may like [A note of C++ Study](https://tom-jerr.github.io/CXX_Study) 、[A note of Distributed Database Study](https://tom-jerr.github.io/DB_Study) 、or [My website](https://tom-jerr.github.io)
+- ⭐ You may like [My website](https://tom-jerr.github.io)
 
 #### :computer: Projects: 
 <p>
@@ -33,10 +33,8 @@
 
 ### About me
 - [Personal Website](https://tom-jerr.github.io/)
-- [A note of C++ Study](https://tom-jerr.github.io/CXX_Study)
-- [A note of DDB Study](https://tom-jerr.github.io/DB_Study)
-<!-- [![tom-jerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-jerr&hide=prs,stars&show_icons=true)](https://github.com/tom-jerr/github-readme-stats)
- -->
+[![tom-jerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-jerr&hide=prs,stars&show_icons=true)](https://github.com/tom-jerr/github-readme-stats)
+
 
 
 
