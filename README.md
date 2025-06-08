@@ -33,8 +33,6 @@
 
 ### About me
 - [Personal Website](https://tom-jerr.github.io/)
-[![tom-jerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-jerr&hide=prs,stars&show_icons=true)](https://github.com/tom-jerr/github-readme-stats)
-
 
 
 
