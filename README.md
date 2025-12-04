@@ -14,7 +14,7 @@
 
 - 🔍 **Currently seeking an internship in LLM inference acceleration / model systems optimization**
 
-- ✉️ Contact: lzy_cs_LN@163.com
+- ✉️ Contact: tomlzy213@gmail.com
 
 - ⭐ Personal Website: tom-jerr.github.io
 
