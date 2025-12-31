@@ -8,7 +8,7 @@
 
 👋 Hi, I’m Zhiyi Liu
 
-- 🎓 Computer Engineering student at the University of Electronic Science and Technology of China (UESTC) (Graduating in 2027)
+- 🎓 Master’s student in Computer Engineering at the University of Electronic Science and Technology of China (UESTC), expected graduation in 2027
 
 - ⚙️ Focused on CUDA programming, LLM inference acceleration, and systems-level performance optimization
 
