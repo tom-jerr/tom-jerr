@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="176" viewBox="0 0 900 176" role="img" aria-label="Zhiyi Liu GitHub Profile Banner">
+  <title>Zhiyi Liu (@tom-jerr) — LLM Inference &amp; Agent Serving Systems</title>
+  <!-- Outer card -->
+  <rect x="2.0" y="2.0" width="896.0" height="172.0" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <text x="36.0" y="36.0" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="11.5" font-weight="600" fill="#79C0FF" text-anchor="start" letter-spacing="0.6">M.S. CS @ UESTC  ·  CLASS OF 2027</text>
+  <text x="36.0" y="76.0" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#E6EDF3" text-anchor="start">Zhiyi Liu</text>
+  <text x="184.0" y="75.0" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="17" font-weight="500" fill="#7D8590" text-anchor="start">@tom-jerr</text>
+  <text x="36.0" y="105.0" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="14.5" font-weight="400" fill="#9198A1" text-anchor="start">LLM Inference Systems  ·  Agent Serving  ·  CUDA Kernel Optimization</text>
+  <rect x="36.0" y="124.0" width="114.0" height="28.0" rx="7" fill="#12263F" stroke="#388BFD" stroke-width="1.0"/>
+  <text x="93.0" y="142.5" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11.5" font-weight="600" fill="#79C0FF" text-anchor="middle">Agent Serving</text>
+  <rect x="160.0" y="124.0" width="98.0" height="28.0" rx="7" fill="#122A1E" stroke="#2EA043" stroke-width="1.0"/>
+  <text x="209.0" y="142.5" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11.5" font-weight="600" fill="#56D364" text-anchor="middle">LLM Engine</text>
+  <rect x="268.0" y="124.0" width="148.0" height="28.0" rx="7" fill="#2B2111" stroke="#D29922" stroke-width="1.0"/>
+  <text x="342.0" y="142.5" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11.5" font-weight="600" fill="#E3B341" text-anchor="middle">CUDA / Tensor Core</text>
+  <rect x="426.0" y="124.0" width="146.0" height="28.0" rx="7" fill="#1C2128" stroke="#444C56" stroke-width="1.0"/>
+  <text x="499.0" y="142.5" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11.5" font-weight="600" fill="#ADB7C1" text-anchor="middle">Systems Engineering</text>
+  <!-- GPU / Tensor Core tile schematic -->
+  <rect x="696.0" y="26.0" width="168.0" height="124.0" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.0"/>
+  <text x="708.0" y="45.0" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="9.5" font-weight="600" fill="#7D8590" text-anchor="start" letter-spacing="0.5">SM / TENSOR TILE</text>
+  <rect x="710.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#58A6FF" stroke="none" stroke-width="1.0"/>
+  <rect x="734.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="758.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="782.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#21262D" stroke="none" stroke-width="1.0"/>
+  <rect x="806.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="830.0" y="56.0" width="20.0" height="16.0" rx="3" fill="#3FB950" stroke="none" stroke-width="1.0"/>
+  <rect x="710.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="734.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#58A6FF" stroke="none" stroke-width="1.0"/>
+  <rect x="758.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="782.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#21262D" stroke="none" stroke-width="1.0"/>
+  <rect x="806.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#3FB950" stroke="none" stroke-width="1.0"/>
+  <rect x="830.0" y="76.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="710.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="734.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="758.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#58A6FF" stroke="none" stroke-width="1.0"/>
+  <rect x="782.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="806.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="830.0" y="96.0" width="20.0" height="16.0" rx="3" fill="#21262D" stroke="none" stroke-width="1.0"/>
+  <rect x="710.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#21262D" stroke="none" stroke-width="1.0"/>
+  <rect x="734.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="758.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <rect x="782.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#58A6FF" stroke="none" stroke-width="1.0"/>
+  <rect x="806.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#21262D" stroke="none" stroke-width="1.0"/>
+  <rect x="830.0" y="116.0" width="20.0" height="16.0" rx="3" fill="#1F4B85" stroke="none" stroke-width="1.0"/>
+  <text x="852.0" y="141.0" font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="9" font-weight="500" fill="#7D8590" text-anchor="end">KV · GEMM · SCHED</text>
+</svg>
